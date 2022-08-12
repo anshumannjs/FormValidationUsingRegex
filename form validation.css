@@ -1,0 +1,35 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+}
+#name{
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+}
+div.phone{
+    display: flex;
+    flex-direction: column;
+}
+.address{
+    display: flex;
+    flex-direction: column;
+}
+.message{
+    display: flex;
+    flex-direction: column;
+}
